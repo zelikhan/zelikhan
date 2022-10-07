@@ -1,4 +1,5 @@
-![MasterHead]
+![SPRK_default_preset_name_custom – 1](https://user-images.githubusercontent.com/114800813/194477782-b99fdd68-cc93-42ba-af50-e7af08fc7f5f.jpg)
+
 <h1 align="center">Hi ☻, I'm Muzammil Shoukat</h1>
 <h3 align="center">A passionate frontend and backend developer and also a graphic designer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
