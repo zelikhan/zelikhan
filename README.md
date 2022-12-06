@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/zelikhan" target="blank"><img src="https://img.shields.io/twitter/follow/zelikhan?logo=twitter&style=for-the-badge" alt="zelikhan" /></a> </p>
 
 - 🔭 I’m currently working on **C#**
-
 - 💬 Ask me about **java, c#, c++**
-
 - 📫 How to reach me **muzammilshoukat2519@gmail.com**
 
 
