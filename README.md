@@ -32,7 +32,6 @@
 - [Read More Articles ...](https://dev.to/zelikhan)
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zelikhan&show_icons=true&locale=en&layout=compact" alt="zelikhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zelikhan&show_icons=true&locale=en" alt="zelikhan" /></p>
