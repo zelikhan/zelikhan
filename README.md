@@ -1,4 +1,6 @@
 ![SPRK_default_preset_name_custom – 1](https://user-images.githubusercontent.com/114800813/194477782-b99fdd68-cc93-42ba-af50-e7af08fc7f5f.jpg)
+![image](https://github.com/zelikhan/zelikhan/assets/114800813/98120157-bda1-4c0a-99a7-57d29ca3e27f)
+
 
 <h1 align="center">Hi ☻, I'm Muzammil Shoukat</h1>
 <h3 align="center">A passionate frontend and backend developer and also a graphic designer from Pakistan.</h3>
